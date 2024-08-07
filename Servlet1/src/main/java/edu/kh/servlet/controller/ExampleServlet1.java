@@ -13,7 +13,7 @@ import jakarta.servlet.http.HttpServletResponse;
  * - http 프로토콜 서비스를 지원하는 추상 클래스
  * 	-> 상속 받아서 사용
  * 
- * - 해당 클래스를 상속 받았다고 해거
+ * - 해당 클래스를 상속 받았다고 해서
  * 	 클라이언트의 요청을 받아서 처리할 수 있는
  * 	 진짜 Servlet이 된 것은 아니다!!!
  * 
